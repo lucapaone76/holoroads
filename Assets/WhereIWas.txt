@@ -11,5 +11,5 @@ i vettori direction XY hanno lunghezza sbalgiata cosi ocme i vetroi tan xy. divr
  26/7/2016
  seguendo quanto scirtto nel 2016 vado a non disegnare mai i RoadTrunk quando numLAn=0
 
- 2/10/2016 provato deply su Hololens (emulator con successo) c'è pero una eccezione nella funzione per centrare la telecamera 
+ 2/10/2016 provato deply su Hololens (emulator con successo) c'è pero una eccezione nella funzione per centrare la telecamera   
 
