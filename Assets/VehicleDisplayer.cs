@@ -12,7 +12,7 @@ public class VehicleDisplayer : MonoBehaviour
 	public static GameObject carPrefab = null;
 	List<Material> materialChoices = null;
 
-    VehicleDisplayer()
+    public VehicleDisplayer()
     { }
 
     public void Init()

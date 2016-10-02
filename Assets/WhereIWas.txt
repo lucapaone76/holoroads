@@ -7,7 +7,7 @@ i vettori direction XY hanno lunghezza sbalgiata cosi ocme i vetroi tan xy. divr
  
  06/07/2016
  mi sono reso conto che fondantoil TDEstr con 2 link, le infomrazione a volte vanno estratte diversmanete (vedi sopra), avolte vanno rovesciate, per cui faccio delle funzioni in TDEstr
-  che lo fanno per le altri classi
+  che lo fanno per le altri classi 
  26/7/2016
  seguendo quanto scirtto nel 2016 vado a non disegnare mai i RoadTrunk quando numLAn=0
 

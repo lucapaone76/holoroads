@@ -15,7 +15,10 @@ public class GameController : MonoBehaviour {
 	}
 
 	void Start () {
-		Create__TrunkTde_GameObjectHashMap ();
+
+        vehiDisplayer = GetComponentsInChildren<VehicleDisplayer>()[0];
+
+        Create__TrunkTde_GameObjectHashMap();
 		vehiDisplayer.setVehiManagerAndTrunkDictio(vehiMan,trunkGODictionary);
 	}
 
